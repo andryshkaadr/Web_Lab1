@@ -1,0 +1,32 @@
+.frame{
+    background-color: #abc2be;
+    width: 630px;
+    height: 710px;
+    padding: 1px 10px;
+}
+.picture{
+    width: 600px;
+}
+.card{
+    width: 600px;
+    margin:20px 15px 20px 15px;
+    background-color: #ffffff;
+
+}
+
+.text{
+    padding: 20px 50px;
+}
+
+.panel{
+    height: 85px;
+    background-color: #e4fffb;
+    padding: 0px 0px;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+}
+li{
+    padding: 35px 20px;
+}
